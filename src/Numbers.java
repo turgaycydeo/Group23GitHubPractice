@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Numbers {
+public class Number
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
         System.out.println("Please enter an integer from 0 to 9");
@@ -30,6 +30,9 @@ public class Numbers {
         }
 
     }
+
+
+
 
 
 }
