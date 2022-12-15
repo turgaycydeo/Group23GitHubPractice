@@ -24,6 +24,7 @@ public class Numbers {
             System.out.println("Eight");
         } else if (num==9) {
             System.out.println("Nine");
+
         }
 
 
