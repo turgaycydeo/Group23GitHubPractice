@@ -2,6 +2,7 @@ public class Numbers {
 
     public static void main(String[] args) {
 
+
         int num = 7;
 
         if (num == 0) {
@@ -28,7 +29,5 @@ public class Numbers {
             System.out.println("error");
         }
     }
-}
-/*
-Write a program that can convert numbers 0~9 to words on Numbers class ( input 0-->output zero)
- */
+
+    }
